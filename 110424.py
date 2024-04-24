@@ -1,3 +1,5 @@
+#ασκηση με δομή επανάληψης 
+
 ar = raw_input("dwse ariumo kikloforias:")
 c = 0
 while ar!="*":
